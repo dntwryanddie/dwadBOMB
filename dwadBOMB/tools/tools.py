@@ -92,9 +92,7 @@ def banner():
 	info_2 = " "*13+colored("[", "blue")+"Version    :"+colored(ver, "red")
 
 	print(banner)
-	print(info)
 	print(info_2)
-	print(info_3)
 
 def banner_tools():
 	print(colored("[1]", "red"), colored("Начать спам", "green"))
