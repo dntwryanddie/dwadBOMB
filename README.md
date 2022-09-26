@@ -11,7 +11,7 @@ pkg install python -y
 
 pip install --upgrade pip
 
-https://github.com/stepanZero/dwadBOMB
+git clone https://github.com/stepanZero/dwadBOMB
 
 cd dwadBOMB
 
