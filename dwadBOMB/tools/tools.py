@@ -97,7 +97,6 @@ def banner():
 def banner_tools():
 	print(colored("[1]", "red"), colored("Начать спам", "green"))
 	print(colored("[2]", "red"), colored("FAQ Про прокси", "blue"))
-	print(colored("\n[99]", "red"), colored("Информация", "cyan"))
 	print(colored("\n[0] Выход", "red"))
 
 
